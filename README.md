@@ -7,3 +7,5 @@
 * [SCALABILITY](https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=SCALABILITY+)
 * [illustrated](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=illustrated&oquery=SCALABILITY&tqi=hnBxWwprvhGss4hxstKssssss74-175209)
 * [Theoretically](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=Theoretically&oquery=%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC&tqi=hnB1Fwp0JXossez0N%2B8ssssssqC-105798)
+* [executable](https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=executable)
+* [reside](https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=executable)
