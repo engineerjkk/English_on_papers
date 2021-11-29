@@ -37,3 +37,4 @@
 * salient 가장 중요한, 핵심적인; 가장 두드러진, 현저한
 * circumstances : 사정, 상황
 * deteriorate : 악화되다, 더 나빠지다
+* coarsely : 조악하게 , 거칠게
