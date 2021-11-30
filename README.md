@@ -1,8 +1,7 @@
 # English_on_papers
 논문에 자주 쓰이는 단어들을 정리하는 공간입니다.
-* [overhead](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=overhead&oquery=granularity&tqi=hnBiWsprvmsssFGHg0KssssstEV-360635)
+
 * [inbuilt](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=inbuilt&oquery=overhead&tqi=hnBiHsprvmZsst1nLRdssssst1w-487034)
-> Trigger : 인터럽트 발생의 유무를 판단하는 근거
 * [granularity](https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=granularity)
 * [SCALABILITY](https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=SCALABILITY+)
 * [illustrated](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=illustrated&oquery=SCALABILITY&tqi=hnBxWwprvhGss4hxstKssssss74-175209)
@@ -30,11 +29,13 @@
 * intuition : 직관력
 * discarded : 폐기하다
 * Magnified : 확대하다
-* interpolate 말참견하다 (=interject), (글에다) 덧붙이다[삽입하다] (=insert). 보간하다, (중간값을) 채우다
-* labour  (labor) 미국∙영국 [ˈleɪbə(r)]  영국식  중요
-1. [명사] (특히 육체적인) 노동[작업]
+* interpolate : 말참견하다 (=interject), (글에다) 덧붙이다[삽입하다] (=insert). 보간하다, (중간값을) 채우다
+* labour : (특히 육체적인) 노동[작업]
 * quasi : 외견상의
 * salient 가장 중요한, 핵심적인; 가장 두드러진, 현저한
 * circumstances : 사정, 상황
 * deteriorate : 악화되다, 더 나빠지다
 * coarsely : 조악하게 , 거칠게
+* beyond that of :  그것을 훨씬 넘어선다
+* orthogonality : 직교성
+* manifold : 많은, 여러가지의
