@@ -40,3 +40,4 @@
 * orthogonality : 직교성
 * manifold : 많은, 여러가지의
 * insignificant : 대수롭지 않은, 사소한, 하찮은
+* constrain : 하게 만들다. 강요하다.
