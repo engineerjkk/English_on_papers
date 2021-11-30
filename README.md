@@ -39,3 +39,4 @@
 * beyond that of :  그것을 훨씬 넘어선다
 * orthogonality : 직교성
 * manifold : 많은, 여러가지의
+* insignificant : 대수롭지 않은, 사소한, 하찮은
