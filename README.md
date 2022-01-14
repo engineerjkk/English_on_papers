@@ -11,13 +11,13 @@
 * [inseparable](https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=inseparable)
 * relocalisation
 * regress 
-* intrinsics
-* naive 
-* precursor 
+* intrinsics : 고유한, 본질적인
+* naive : (경험·지식 부족 등으로) 순진해 빠진, (모자랄 정도로) 순진한
+* precursor : 선도자(격인 사람·사물), (=forerunner)
 * crucial
 * discretized
-* empirically
-* converges
+* empirically : 경험(주의)적으로.
+* converges : 모여들다, 집중되다
 * spatio-temporal data : 시 공간적 자료
 * as opposed to : …와는 대조적으로, …이 아니라
 * quaternion
@@ -49,3 +49,12 @@
 * exhaustive : (하나도 빠뜨리는 것 없이) 철저한[완전한]
 * intensive : 집중적인(짧은 시간에 많은 일·활동을 하는)
 * impairing : 손상[악화]시키다
+* emerge from : ~에서 벗어나다, 나오다
+* notably : 특히
+* heterogeneity : [UC] 이종(異種), 이류(異類), 이질성(異質性), 불균질(不均質); 이류 혼교(混交); 이질 성분
+* outperform : 더 나은 결과를 내다, 능가하다
+* aggregation : 집합체
+* bilinearly : 두 줄의 선
+* scarcity : 부족, 결핍
+* alleviate : 완화하다
+* assesses : (특성·자질 등을) 재다[가늠하다]
