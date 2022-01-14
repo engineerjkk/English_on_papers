@@ -41,3 +41,5 @@
 * manifold : 많은, 여러가지의
 * insignificant : 대수롭지 않은, 사소한, 하찮은
 * constrain : 하게 만들다. 강요하다.
+* incur : (좋지 못한 상황을[에]) 초래하다[처하게 되다]
+* irrespective : …을 돌아보지 않는, …에 개의치 않는.
