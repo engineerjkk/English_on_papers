@@ -43,3 +43,9 @@
 * constrain : 하게 만들다. 강요하다.
 * incur : (좋지 못한 상황을[에]) 초래하다[처하게 되다]
 * irrespective : …을 돌아보지 않는, …에 개의치 않는.
+* distillation : 증류(법), [UC] 증류물, 정수
+* monolithic : 하나의 암석으로 된, [건축] 중공 초석의
+* scalability : 확장성 ((사용자 수의 증대에 유연하게 대응할 수 있는 정도))
+* exhaustive : (하나도 빠뜨리는 것 없이) 철저한[완전한]
+* intensive : 집중적인(짧은 시간에 많은 일·활동을 하는)
+* impairing : 손상[악화]시키다
