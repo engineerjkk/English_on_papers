@@ -58,3 +58,9 @@
 * scarcity : 부족, 결핍
 * alleviate : 완화하다
 * assesses : (특성·자질 등을) 재다[가늠하다]
+* unrivalled : 타의 추종을 불허하는 (=unsurpassed)
+* intractable : 아주 다루기 힘든
+* heterogenous : 외생(外生)의, 외래의
+* come at : …에게 덤벼들다(=attack). (This comes at the cost of increased compute, as state-of-the-art image retrieval is based on large deep learning models.)  
+* impair : 손상 악화시키다.
+* tractable : 다루기 쉬운
