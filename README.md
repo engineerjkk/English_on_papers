@@ -64,3 +64,7 @@
 * come at : …에게 덤벼들다(=attack). (This comes at the cost of increased compute, as state-of-the-art image retrieval is based on large deep learning models.)  
 * impair : 손상 악화시키다.
 * tractable : 다루기 쉬운
+* underlying : (겉으로 잘 드러나지는 않지만) 근본적인[근원적인]
+* reason 동사 : (논리적인 근거에 따라) 판단하다, 추리[추론]하다
+* heuristics : 복잡한 과제를 간단한 판단 작업으로 단순화시켜 의사 결정하는 경향
+* permutation : 순열
